@@ -1,0 +1,11 @@
+{
+    "name": "ReloadMods",
+    "version": "0.17.0",
+    "title": "Reload Mods",
+    "author": "_italics_",
+    "contact": "",
+    "homepage": "https://mods.factorio.com/mod/ReloadMods",
+    "factorio_version": "0.17",
+    "dependencies": ["base >= 0.16" ],
+    "description": "For modders: Adds button that calls game.reload_mods()"
+}
